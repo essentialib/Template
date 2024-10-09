@@ -1,4 +1,4 @@
-# ts-module-template
+# typescript-module (template)
 
 ## Tools
 - Bot App: [메신저봇R](https://github.com/MessengerBotTeam/msgbot-old-release/releases/tag/0.7.36a) (0.7.36a 버전 이상)
