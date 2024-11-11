@@ -9,7 +9,7 @@
       "skipLibCheck": true,         // Skip type checking for declaration files
       "lib": ["ESNext"]
     },
-    "include": ["src/**/*.ts", "api/android.d.ts", "api/api2.d.ts"],     // Include all TypeScript files in src folder
+    "include": ["examples/*.js", "src/**/*.ts", "api/android.d.ts", "api/api2.d.ts", "api/util.d.ts"],     // Include all TypeScript files in src folder
     "exclude": ["node_modules", "dist", "**/*.test.ts"] // Exclude test and dist files
 }
   
